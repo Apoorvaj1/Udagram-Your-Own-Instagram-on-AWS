@@ -1,7 +1,7 @@
 # Udagram Image Filtering Microservice
 
 # Github Repository URL
-- https://github.com/manishbisht/Udagram-Your-Own-Instagram-on-AWS
+- https://github.com/Apoorvaj1/Udagram-Your-Own-Instagram-on-AWS
 
 # Elastic BeanStalk URL
 - http://udacity-cloud-p2-udagram-dev.ap-south-1.elasticbeanstalk.com
